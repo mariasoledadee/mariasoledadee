@@ -3,7 +3,6 @@
 Me chamo Maria Soledade e sou graduanda em Design Digital pela Universidade Federal do Ceará 😊
 - 🔭 Atualmente trabalho com desenvolvimento web front-end na Lux TI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariasoledadee&color=red" alt="Profile views" /> </p>
 
  <div style="display: flex">
   <a href="https://github.com/mariasoledadee">
